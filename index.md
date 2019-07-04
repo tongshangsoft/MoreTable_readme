@@ -33,10 +33,12 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
 
 - [MoreTable能解决什么](index_solv)
 - [从一个例子开始](GettingStarted)
-- 团队管理
+- MoreExcel管理平台
   - [创建一个团队](group_new)
   - 定义协作者并分配登录账号
   - [定义表格](group_def_table)
   - [定义表格的列类型](group_table_col_def)
-  - 分配权限
+  - [分配列的浏览权限](group_table_view_rights)
+  - [分配列的编辑权限](group_table_edit_rights)
+  - [控制行的浏览和编辑权限](group_table_row_rights)
 - 高级
