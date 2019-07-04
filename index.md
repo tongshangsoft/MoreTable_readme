@@ -31,6 +31,7 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
 
 目录
 
+- [MoreTable能解决什么](index_solv)
 - [从一个例子开始](GettingStarted)
 - 团队管理
   - 创建一个团队
