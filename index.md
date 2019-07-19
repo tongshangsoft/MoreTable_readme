@@ -1,10 +1,21 @@
 ﻿# MoreTable是什么
 
-![image](images/image003.png)
-
 ## MoreTable是一个用于表格协作的软件系统
 
 MoreTable将访问云端数据库，让多人在同一个数据源下协作编辑数据表。MoreTable依赖于一个[管理平台](https://me3.6erp.cn/mex/admin/home/)下定义表格样式和权限，然后以Excel为界面，浏览和更新表格。
+
+![image](images/yunexceldown.png)
+
+如上图所示，这套系统分成两部分，一个是MoreExcel管理平台，另一个是Excel插件。
+
+- [MoreExcel管理平台](https://me3.6erp.cn/mex/admin/home/)
+- [Excel插件下载](https://appsource.microsoft.com/zh-cn/product/office/WA200000158?tab=Overview)
+
+管理员登录MoreExcel管理平台，定义表格样式，表格关系，划分权限等。员工使用Excel插件（安装在Excel软件内）来更新表格，修改表格，保存表格。
+
+![image](images/image003.png)
+
+## 功能点
 
 MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系统，它自我定义表格样式，操作习惯更符合传统；同时，它会赋予Excel更多的控制功能，比如：
 
