@@ -43,7 +43,17 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
 目录
 
 - [MoreTable能解决什么](index_solv)
+- [和传统管理软件的区别](index_diff)
 - [从一个例子开始](GettingStarted)
+- MoreTable插件
+  - [Excel中安装插件及常见安装问题](addin_install)
+  - 打开Excel并登录插件
+  - 查看表格
+  - 修改并保存表格
+  - 处理增删行列
+  - 处理函数公式的同步
+  - 录入相关
+  - vlookup
 - MoreExcel管理平台
   - [创建一个团队](group_new)
   - 定义协作者并分配登录账号
@@ -52,5 +62,7 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
   - [分配列的浏览权限](group_table_view_rights)
   - [分配列的编辑权限](group_table_edit_rights)
   - [控制行的浏览和编辑权限](group_table_row_rights)
-- 高级
+  - 定义表头样式
+  - 设计多表之间的数据借用和关系
+- 应用案例
   - [【库存表和入库表】，并按月份统计入库量和统计库存](samples/s1)
