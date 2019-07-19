@@ -50,8 +50,8 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
   - [打开Excel并登录插件](addin_start)
   - [查看表格](addin_update)
   - [处理函数公式的同步](addin_formula)
-  - 辅助编辑利器 -- 录入相关
-  - 辅助编辑利器 -- vlookup跨表借用数据
+  - [辅助编辑利器 -- 录入相关](addin_autocomplete)
+  - [辅助编辑利器 -- vlookup跨表借用数据](addin_vlookup)
   - 处理增删行列
   - 修改并保存表格
 - MoreExcel管理平台
