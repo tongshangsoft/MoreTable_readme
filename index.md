@@ -47,13 +47,13 @@ MoreTable以Excel为界面操作共同编辑数据表。相比于传统的ERP系
 - [从一个例子开始](GettingStarted)
 - MoreTable插件
   - [Excel中安装插件及常见安装问题](addin_install)
-  - 打开Excel并登录插件
-  - 查看表格
-  - 修改并保存表格
+  - [打开Excel并登录插件](addin_start)
+  - [查看表格](addin_update)
+  - [处理函数公式的同步](addin_formula)
+  - 辅助编辑利器 -- 录入相关
+  - 辅助编辑利器 -- vlookup跨表借用数据
   - 处理增删行列
-  - 处理函数公式的同步
-  - 录入相关
-  - vlookup
+  - 修改并保存表格
 - MoreExcel管理平台
   - [创建一个团队](group_new)
   - 定义协作者并分配登录账号
