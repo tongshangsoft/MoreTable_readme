@@ -25,7 +25,7 @@
   - [分配列的浏览权限](group_table_view_rights)
   - [分配列的编辑权限](group_table_edit_rights)
   - [控制行的浏览和编辑权限](group_table_row_rights)
-  - 定义表头样式
+  - [定义表头样式](group_headstyle)
   - 设计多表之间的数据借用和关系
 - 应用案例
   - [【库存表和入库表】，并按月份统计入库量和统计库存](samples/s1)
