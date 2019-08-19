@@ -8,7 +8,7 @@
 
 我们还注意到，类型选择后面还有一个格式，格式列可以录入一些类型相关的格式写法，具体见下表。
 
-### 列类型：日期
+## 列类型：日期
 
 | 格式写法 | [请参照Excel单元格格式：日期类型](https://support.office.com/zh-cn/article/%e6%8c%89%e6%83%b3%e8%a6%81%e7%9a%84%e6%96%b9%e5%bc%8f%e8%ae%be%e7%bd%ae%e6%97%a5%e6%9c%9f%e6%a0%bc%e5%bc%8f-8e10019e-d5d8-47a1-ba95-db95123d273e?ui=zh-CN&rs=zh-CN&ad=CN) |
 | --- | --- |
