@@ -1,8 +1,11 @@
 # 从一个例子开始
 
-下面我们从一个案例开始。在开始之前，我们先确认您使用的是Office Excel 2016版本及以上，包括Office 365和最新的2019版本，操作系统平台包括windows，Mac和Office online。
+下面我们从一个案例开始。在开始之前，我们先确认你电脑上有Office软件（而不是WPS）。
 
-> 注意，由于Excel技术的限制，必须要用Office 2016及以上版本，不支持2007，2010，2013，也不支持WPS。
+本系统由一个MoreExcel管理平台和Excel客户端组成。你需要
+
+1. 注册[MoreExcel管理平台](https://me3.6erp.cn/admin/)
+2. 安装[MoreTable插件，有两个客户端，请根据Office版本下载](https://www.6erp.cn/portfoliotype/moreexcel3)
 
 ## 打开MoreTable插件
 
@@ -12,7 +15,7 @@
 
 ### 以协作者身份登录
 
-请从您的团队管理员那里获取一个协作者账号。
+请确保您已经在[MoreExcel管理平台](https://me3.6erp.cn/admin/)中注册。
 
 管理员会分配若干个协作者账号并分配它们的权限。您需要获得用户名和密码，然后在插件上登录。
 
