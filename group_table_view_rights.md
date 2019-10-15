@@ -1,3 +1,11 @@
+---
+layout: default
+title: 分配列的浏览权限
+nav_order: 5
+parent: MoreExcel管理平台
+---
+
+
 # 浏览权限
 
 浏览权限，就是能看不能保存。常用于管理者去查看表格，不编辑表格。MoreExcel需要在表格定义的时候管理浏览权限。

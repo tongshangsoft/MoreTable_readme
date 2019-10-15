@@ -1,3 +1,10 @@
+---
+layout: default
+title: 注册并登录后台
+nav_order: 1
+parent: MoreExcel管理平台
+---
+
 # 创建管理团队和若干成员
 
 > 假设您是个管理员

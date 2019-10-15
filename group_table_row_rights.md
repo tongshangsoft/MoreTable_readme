@@ -1,3 +1,11 @@
+---
+layout: default
+title: 控制行的浏览和编辑权限
+nav_order: 7
+parent: MoreExcel管理平台
+---
+
+
 # 控制行的浏览和编辑权限
 
 前面讲的都是列的浏览和编辑权限，MoreExcel还能控制行的浏览和编辑权限。只有管理员才能分配权限。

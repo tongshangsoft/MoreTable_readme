@@ -1,3 +1,11 @@
+---
+layout: default
+title: 定义表格的列类型
+nav_order: 4
+parent: MoreExcel管理平台
+---
+
+
 # 定义列的类型
 
 定义表格的时候，每个列可以指定一个类型。

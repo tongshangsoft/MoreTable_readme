@@ -1,3 +1,10 @@
+---
+layout: default
+title: 定义协作者并分配登录账号
+nav_order: 2
+parent: MoreExcel管理平台
+---
+
 # 一个管理员和若干个协作者账号
 
 > 团队成员是用来登录Excel的。

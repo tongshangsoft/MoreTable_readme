@@ -1,3 +1,11 @@
+---
+layout: default
+title: 分配列的编辑权限
+nav_order: 6
+parent: MoreExcel管理平台
+---
+
+
 # 编辑权限
 
 编辑权限，就是可以保存到数据库中的权限。在Excel表格中编辑单元格，并保存到数据库中。

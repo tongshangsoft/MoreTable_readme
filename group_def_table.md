@@ -1,3 +1,11 @@
+---
+layout: default
+title: 定义表格
+nav_order: 3
+parent: MoreExcel管理平台
+---
+
+
 # 定义第一份表格
 
 ## 什么是Excel表格
