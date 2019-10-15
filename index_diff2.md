@@ -1,3 +1,10 @@
+---
+layout: default
+title: 和旧版MoreExcel2的区别
+nav_order: 4
+---
+
+
 # 和旧版MoreExcel2的区别
 
 如果您接触过本公司的的其它产品，应该还知道有个旧版的[MoreExcel2](https://www.6erp.cn/portfoliotype/moreexcel)，乍看起来，和新版的MoreExcel是实现相同的目标的，表格协作。实际上从协作原理上来看，它们是完全不同的。

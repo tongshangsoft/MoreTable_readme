@@ -1,3 +1,9 @@
+---
+layout: default
+title: MoreTable能解决什么
+nav_order: 2
+---
+
 # MoreTable是什么
 
 ## MoreTable是一个用于表格协作的软件系统
