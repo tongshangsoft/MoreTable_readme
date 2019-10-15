@@ -1,4 +1,8 @@
-﻿## 目录
+﻿---
+layout: default
+title: 目录
+nav_order: 1
+---
 
 - [从一个例子开始](GettingStarted)
 - [MoreTable能解决什么](index_solv)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 和传统管理软件的区别
-nav_order: 3
+nav_order: 4
 ---
 
 # 和传统管理软件的区别
