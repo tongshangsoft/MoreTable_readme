@@ -1,3 +1,11 @@
+---
+layout: default
+title: 查看表格
+nav_order: 3
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
 # 更新表格内容
 
 ## 登录后的界面

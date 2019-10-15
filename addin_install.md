@@ -1,3 +1,11 @@
+---
+layout: default
+title: Excel中安装插件及常见安装问题
+nav_order: 1
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
 # Excel中安装插件
 
 > 本插件只能支持Office 2016版本及以上（包括Office365和2019），包括windows，Mac和Ipad系统环境

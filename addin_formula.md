@@ -1,3 +1,11 @@
+---
+layout: default
+title: 处理函数公式的同步
+nav_order: 4
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
 # 处理函数公式的同步
 
 Excel会用到大量的函数

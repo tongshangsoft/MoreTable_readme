@@ -1,3 +1,11 @@
+---
+layout: default
+title: 处理增删行列
+nav_order: 8
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
 # 处理增删行列
 
 > 看本章节前，请先了解[标准的Excel表格](addin_update)。

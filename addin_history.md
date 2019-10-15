@@ -1,3 +1,12 @@
+---
+layout: default
+title: 查询修改历史
+nav_order: 10
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
+
 # 查询修改历史
 
 每个表格保存的时候都会留一次记录。包括保存的人，时间，保存的内容。

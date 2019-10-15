@@ -1,3 +1,10 @@
+---
+layout: default
+title: 辅助编辑利器 -- 录入相关
+nav_order: 5
+parent: MoreTable插件（Office2016及以上版本）
+---
+
 # 辅助编辑利器 -- 录入相关
 
 > 本章节开始涉及跨表的数据借用，在此之前，请先了解一下[处理函数公式的同步](addin_formula)。

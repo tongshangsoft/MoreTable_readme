@@ -1,3 +1,11 @@
+---
+layout: default
+title: 打开Excel并登录插件
+nav_order: 2
+parent: MoreTable插件（Office2016及以上版本）
+---
+
+
 # 打开Excel并登录插件
 
 > 开始之前，请确保安装了MoreTable插件，[安装方式在这里](addin_install)。
