@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 控制行的浏览和编辑权限
-nav_order: 7
+nav_order: 8
 parent: MoreExcel管理平台
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 定义表格的列类型
-nav_order: 4
+nav_order: 5
 parent: MoreExcel管理平台
 has_children: true
 ---

@@ -82,3 +82,7 @@ parent: MoreExcel管理平台
 ![gif](images/img2019080902u.gif)
 
 这个方式适用于：**表格定义相同或类似，只是名字不一样**。
+
+## 表格分类
+
+请参考[管理，分类表格及生成菜单](group_cls_table)

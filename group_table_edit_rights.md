@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 分配列的编辑权限
-nav_order: 6
+nav_order: 7
 parent: MoreExcel管理平台
 ---
 
